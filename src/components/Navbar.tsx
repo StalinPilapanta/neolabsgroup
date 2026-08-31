@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="max-w-[980px] mx-auto px-6">
         <div className="flex items-center justify-between h-12">
           <Link href="/" className="text-foreground text-sm font-semibold tracking-tight">
-            NoeLabs Group
+            NeoLabs Group
           </Link>
 
           {/* Desktop Nav */}

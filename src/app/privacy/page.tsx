@@ -8,7 +8,7 @@ export default function PrivacyPage() {
         <div className="max-w-[980px] mx-auto px-6">
           <div className="flex items-center justify-between h-12">
             <Link href="/" className="text-foreground text-sm font-semibold tracking-tight">
-              NoeLabs Group
+              NeoLabs Group
             </Link>
             <Link href="/" className="text-xs text-muted hover:text-foreground transition-colors">
               ← Volver al inicio
@@ -31,7 +31,7 @@ export default function PrivacyPage() {
             <section>
               <h2 className="text-xl font-semibold mb-3">1. Información que recopilamos</h2>
               <p className="text-muted mb-3">
-                En NoeLabs Group recopilamos información que usted nos proporciona directamente al utilizar nuestros servicios:
+                En NeoLabs Group recopilamos información que usted nos proporciona directamente al utilizar nuestros servicios:
               </p>
               <ul className="list-disc list-inside text-muted space-y-2 ml-2">
                 <li>Nombre completo y datos de contacto (correo electrónico, teléfono)</li>
@@ -66,7 +66,7 @@ export default function PrivacyPage() {
               <ul className="list-disc list-inside text-muted space-y-2 ml-2 mt-3">
                 <li>Con proveedores de servicios que nos asisten en la operación (hosting, analítica)</li>
                 <li>Cuando sea requerido por ley o proceso legal</li>
-                <li>Para proteger los derechos, propiedad o seguridad de NoeLabs Group</li>
+                <li>Para proteger los derechos, propiedad o seguridad de NeoLabs Group</li>
                 <li>Con su consentimiento explícito</li>
               </ul>
             </section>
@@ -142,8 +142,8 @@ export default function PrivacyPage() {
                 Si tiene preguntas sobre esta política de privacidad o desea ejercer sus derechos, puede contactarnos en:
               </p>
               <div className="mt-3 glass-card rounded-xl p-5">
-                <p className="text-foreground font-medium">NoeLabs Group</p>
-                <p className="text-muted mt-1">Email: privacy@noelabsgroup.com</p>
+                <p className="text-foreground font-medium">NeoLabs Group</p>
+                <p className="text-muted mt-1">Email: privacy@neolabsgroup.com</p>
               </div>
             </section>
           </div>
@@ -154,7 +154,7 @@ export default function PrivacyPage() {
       <footer className="py-8 border-t border-border/30">
         <div className="max-w-[980px] mx-auto px-6 text-center">
           <p className="text-muted text-xs">
-            © {new Date().getFullYear()} NoeLabs Group. Todos los derechos reservados.
+            © {new Date().getFullYear()} NeoLabs Group. Todos los derechos reservados.
           </p>
         </div>
       </footer>

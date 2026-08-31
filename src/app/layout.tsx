@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NoeLabs Group — Intelligent Automation",
+  title: "NeoLabs Group — Intelligent Automation",
   description:
     "Soluciones de inteligencia artificial: chatbots, automatización, análisis de datos e infraestructura AI para empresas.",
-  keywords: ["AI", "automatización", "chatbots", "inteligencia artificial", "NoeLabs Group"],
+  keywords: ["AI", "automatización", "chatbots", "inteligencia artificial", "NeoLabs Group"],
 };
 
 export default function RootLayout({

@@ -18,7 +18,7 @@ export default function About() {
               <span className="text-muted">Hoy.</span>
             </h2>
             <p className="text-muted text-base leading-relaxed mb-6">
-              En NoeLabs Group combinamos ingeniería de software de alto nivel con inteligencia artificial para crear soluciones que realmente transforman operaciones empresariales.
+              En NeoLabs Group combinamos ingeniería de software de alto nivel con inteligencia artificial para crear soluciones que realmente transforman operaciones empresariales.
             </p>
             <p className="text-muted text-base leading-relaxed">
               No vendemos promesas. Entregamos sistemas que funcionan, escalan y generan resultados medibles desde el primer día.
